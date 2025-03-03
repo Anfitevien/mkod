@@ -1,8 +1,7 @@
-﻿
-#include <iostream>
-
+﻿#include <iostream>
+using namespace std;
 int main()
 {
-    std::cout << "kgnasmgomaomf!\n";
-    std::cout << "Chto-to\n";
+    cout << "kgnasmgomaomf!\n";
+    cout << "Chto-to\n";
 }
