@@ -6,4 +6,5 @@ int main()
     cout << "Chto-to\n";
     cout << "2";
     cout << "14\n";
+    cout << "HLEVUSHEK\n";
 }
